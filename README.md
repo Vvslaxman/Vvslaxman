@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with TensorFlow**
 
-- 💬 Ask me about **MERN stack,Machine Learning,OpenCv,NLP**
+- 💬 Ask me about **MERN stack,Machine Learning,OpenCV,NLP**
 
 - 📫 How to reach me **vvslaxman14@gmail.com**
 
