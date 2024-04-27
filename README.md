@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lucky_empire14" target="blank"><img src="https://img.shields.io/twitter/follow/lucky_empire14?logo=twitter&style=for-the-badge" alt="lucky_empire14" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning with TensorFlow**
+- 🌱 I’m currently learning **Deep Learning with TensorFlow**
 
 - 💬 Ask me about **MERN stack,Machine Learning,OpenCV,NLP**
 
