@@ -33,5 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vvslaxman&show_icons=true&locale=en&layout=compact" alt="vvslaxman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vvslaxman&show_icons=true&locale=en" alt="vvslaxman" /></p>
-
+<p>&nbsp[![trophy](https://github-profile-trophy.vercel.app/?username=Vvslaxman&margin-h=15)]</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vvslaxman&" alt="vvslaxman" /></p>
