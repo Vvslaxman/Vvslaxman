@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vangala Venkata Sai Laxman</h1>
 <h3 align="center">A passionate MERN Stack and DL Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvslaxman&label=Profile%20views&color=0e75b6&style=flat" alt="vvslaxman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lucky_empire14" target="blank"><img src="https://img.shields.io/twitter/follow/lucky_empire14?logo=twitter&style=for-the-badge" alt="lucky_empire14" /></a> </p>
