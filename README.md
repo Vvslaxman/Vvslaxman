@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats:
 <div>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vvslaxman&show_icons=true&locale=en&layout=compact" alt="vvslaxman" /></p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vvslaxman&theme=default&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Vvslaxman&theme=default&hide_border=false)<br/> -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vvslaxman&show_icons=true&locale=en" alt="vvslaxman" /></p>
 ![snake gif](https://github.com/Vvslaxman/Vvslaxman/blob/output/github-contribution-grid-snake.gif)
 
