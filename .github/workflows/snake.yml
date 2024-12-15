@@ -19,7 +19,7 @@ jobs:
           github_user_name: Vvslaxman
           outputs: |
             gif_out_path: dist/github-contribution-grid-snake.gif
-            svg_out_path: dist/github-contribution-grid-snake-dark.svg
+            svg_out_path: dist/github-contribution-grid-snake.svg
             
       - run: git status   
 
