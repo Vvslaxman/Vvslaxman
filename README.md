@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vangala Venkata Sai Laxman</h1>
 <h3 align="center">A passionate MERN Stack and DL Engineer from India</h3>
-<p align="left"> <a href="https://readme-typing-svg.demolab.com?font=&pause=20&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;" target="blank"> <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Prompt+Engineer;AI+Model+Development;Freelancer" alt="lucky" /></a></p>
-<img align="right" alt="coding" width="400" height="300" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is"  />
+<p align="left"> <a href="https://readme-typing-svg.demolab.com?font=&pause=7&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;" target="blank"> <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Prompt+Engineer;AI+Model+Development;Freelancer" alt="lucky" /></a></p>
+<img align="right" alt="coding" width="400" height="300" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is"  /><br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvslaxman&label=Profile%20views&color=0e75b6&style=flat" alt="vvslaxman" /> </p>
 
 - 🥰 You can call me Lucky 
@@ -15,6 +15,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-venkata-sai-laxman-68b8b5263/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lucky_empire14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucky_empire_14_) 
+
 <h3 align="left">💫 Problem Solving & Pens Profile :</h3>
 <a href="https://www.codechef.com/users/lucky04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lucky04" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vvslaxman14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vvslaxman14" height="30" width="40" /></a>
@@ -22,6 +23,8 @@
 <a href="https://www.leetcode.com/luckyempire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luckyempire" height="30" width="40" /></a>
 <a href="https://codepen.io/laxman_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="laxman_14" height="30" width="40" /></a>
 </p>
+
+## 💻 Tech Stack:
 <h2 align="left">I code with</h2>
 
 ###
