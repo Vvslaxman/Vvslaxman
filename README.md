@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vangala Venkata Sai Laxman</h1>
-<h3 align="center">A passionate MERN Stack and DL Engineer from India</h3>
+<h3 align="center">I am a developer, I develop bugs 🐛 </h3>
 <p align="left"> <a href="https://readme-typing-svg.demolab.com?font=&pause=7&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;" target="blank"> <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Prompt+Engineer;AI+Model+Development;Freelancer" alt="lucky" /></a></p>
 <img align="right" alt="coding" width="400" height="300" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is"  /><br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvslaxman&label=Profile%20views&color=0e75b6&style=flat" alt="vvslaxman" /> </p>
