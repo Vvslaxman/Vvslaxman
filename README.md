@@ -14,7 +14,12 @@
 <br><br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-venkata-sai-laxman-68b8b5263/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lucky_empire14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucky_empire_14) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-venkata-sai-laxman-68b8b5263/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lucky_empire14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucky_empire_14)
+<a href="https://wa.me/+916300903909/?text=urlencodedtext">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="75" height="20" alt="Whatsapp" />
+</a>
+
+
 
 <h3 align="left">💎 Problem Solving & Pens Profile :</h3>
 <a href="https://www.codechef.com/users/lucky04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lucky04" height="30" width="40" /></a>
@@ -33,6 +38,10 @@
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="MUI logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/fdccc09f-eaab-48f5-89af-35b6fce46e07" height="40" alt="huggingface logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/df7de8de-1b4d-4ca4-a00c-a69c8ae22fa9" height="40" alt="langchain logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
   <img width="12" />
