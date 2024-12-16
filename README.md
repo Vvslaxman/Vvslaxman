@@ -36,13 +36,13 @@
 
 ## 📊 GitHub Stats:
 <div>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vvslaxman&show_icons=true&locale=en&layout=compact" alt="vvslaxman" /></p>
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vvslaxman&theme=default&hide_border=true" alt="vvslaxman" /><br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vvslaxman&show_icons=true&locale=en" alt="vvslaxman" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vvslaxman&theme=dark&show_icons=true&locale=en&layout=compact" alt="vvslaxman" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vvslaxman&theme=dark&hide_border=false" alt="vvslaxman" /><br/>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vvslaxman&theme=dark&show_icons=true&locale=en" alt="vvslaxman" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github.com/Vvslaxman/Vvslaxman/blob/output/github-contribution-grid-snake.gif" alt="vvslaxman" /></p>
 
 ## 🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/Vvslaxman/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vvslaxman&row=2&column=3&margin-w=15&margin-h=15" alt="vvslaxman" /></a> </p>
+<p align="center"> <a href="https://github.com/Vvslaxman/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vvslaxman&theme=dark&row=2&column=3&margin-w=15&margin-h=15" alt="vvslaxman" /></a> </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vvslaxman&limit=5&theme=dark&combine_all_yearly_contributions=true)
