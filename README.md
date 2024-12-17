@@ -3,7 +3,7 @@
 <h3 align="center">I am a developer, I develop solutions and bugs 🐛 </h3>
 <p align="left"> <a href="https://readme-typing-svg.demolab.com?font=&pause=7&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;" target="blank"> <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Prompt+Engineer;AI+Model+Development;Freelancer" alt="lucky" /></a></p>
 <img align="right" alt="coding" width="400" height="300" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is"  /><br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvslaxman&label=Profile%20views&color=0e75b6&style=flat" alt="vvslaxman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vvslaxman&label=Profile%20views&color=0e75b6&style=flat" alt="vvslaxman" /> </p>
 
 - 🔱 You can call me Lucky 
 - 🌱 I’m currently learning **Deep Learning with TensorFlow**
@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-venkata-sai-laxman-68b8b5263/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lucky_empire14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucky_empire_14)
-<a href="https://wa.me/+916300903909/?text=urlencodedtext">
+<a href="https://wa.me/+916300903909/">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="75" height="20" alt="Whatsapp" />
 </a>
 
