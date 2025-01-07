@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vangala Venkata Sai Laxman</h1>
+<h1 align="center">Hi 👋, I'm Vangala Venkata Sai Laxman </h1>
 <h3 align="center">I am a developer, I develop solutions and bugs 🐛 </h3>
 <div style="display: flex; align-items: center;">
     <img alt="tags" width="50" height="50" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="margin-right: 100px;"/>
@@ -137,13 +137,18 @@
 ## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/Vvslaxman/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vvslaxman&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="vvslaxman" /></a> </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vvslaxman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## 🎧 Spotify Recently Played
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=312pbcu5dspkahwayezfqaq5nr4i&unique={true|1|on|yes})
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pbcu5dspkahwayezfqaq5nr4i&unique={true|1|on|yes}" alt="Spotify" width="400" height="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Tags" width="300" height="300" />
+</p>
+
+
+
+
 </div>
 
