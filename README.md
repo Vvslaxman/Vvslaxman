@@ -1,9 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Vangala Venkata Sai Laxman</h1>
 <h3 align="center">I am a developer, I develop solutions and bugs 🐛 </h3>
-<p align="left"> <a href="https://readme-typing-svg.demolab.com?font=&pause=7&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;" target="blank"> <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Prompt+Engineer;AI+Model+Development;Freelancer" alt="lucky" /></a></p>
-<img align="right" alt="coding" width="400" height="300" src="https://media.licdn.com/dms/image/v2/D4D12AQH2zQ0dNvmntQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1715952999841?e=2147483647&v=beta&t=Ffqv27FncRT1oBsuNQqA393jBjRq3JOsUh0zsbhE8Is"  /><br></br>
+<div style="display: flex; align-items: center;">
+    <img alt="tags" width="50" height="50" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="margin-right: 100px;"/>
+    <a href="https://readme-typing-svg.demolab.com?font=&pause=7&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Freelancer;" target="blank"> 
+        <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&center=false&vCenter=true&width=450&lines=Full+Stack+Developer;Python+Backend+Developer;NodeJS+Developer;Prompt+Engineer;AI+Model+Development;Freelancer" alt="lucky" />
+    </a>
+</div>
+
+<img align="right" alt="coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  /><br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vvslaxman&label=Profile%20views&color=0e75b6&style=flat" alt="vvslaxman" /> </p>
+
 
 - 🔱 You can call me Lucky 
 - 🌱 I’m currently learning **Deep Learning with TensorFlow**
