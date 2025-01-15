@@ -46,25 +46,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/fdccc09f-eaab-48f5-89af-35b6fce46e07" height="40" alt="huggingface logo" />
-  <img width="12" />
-  <img src="https://github.com/user-attachments/assets/df7de8de-1b4d-4ca4-a00c-a69c8ae22fa9" height="40" alt="langchain logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="MUI logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/df7de8de-1b4d-4ca4-a00c-a69c8ae22fa9" height="40" alt="langchain logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/fdccc09f-eaab-48f5-89af-35b6fce46e07" height="40" alt="huggingface logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -80,9 +76,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="MUI logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -101,6 +97,8 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
