@@ -14,7 +14,6 @@
 
 - 🔱 You can call me Lucky 
 - 🌱 I’m currently learning **Deep Learning with TensorFlow**
-
 - 💬 Ask me about **MERN stack,Machine Learning,OpenCV,NLP**
 - 🏀 I hoop often
 - 📫 How to reach me **vvslaxman14@gmail.com**
@@ -28,7 +27,7 @@
 
 
 
-<h3 align="left">💎 Problem Solving & Pens Profile :</h3>
+<h3 align="left">💎 Problem Solving  ⚔️ Pens Profile :</h3>
 <a href="https://www.codechef.com/users/lucky04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lucky04" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vvslaxman14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vvslaxman14" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vvslaxman14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vvslaxman14" height="30" width="40" /></a>
@@ -135,16 +134,18 @@
 ## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/Vvslaxman/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vvslaxman&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="vvslaxman" /></a> </p>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vvslaxman&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo & 🧩 Leetcode Stats
 
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Vvslaxman&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top-repo" width="400" height="400" />&nbsp;&nbsp;
+    <img src="https://leetcard.jacoblin.cool/luckyempire?theme=dark&font=Montagu%20Slab&ext=contest" alt="leetcode-stats" width="380" height="380" />
+</div>
 
-## 🎧 Spotify Recently Played
+## 🎧 Spotify Recently Played & Sports 🏀
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pbcu5dspkahwayezfqaq5nr4i&unique={true|1|on|yes}" alt="Spotify" width="400" height="400" />
-  <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Tags" width="300" height="300" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pbcu5dspkahwayezfqaq5nr4i&unique={true|1|on|yes}" alt="Spotify" width="400" height="400" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Tags" width="300" height="300" margin-top="10"/>
 </p>
-
 
 
 
