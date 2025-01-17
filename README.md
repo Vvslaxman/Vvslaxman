@@ -119,9 +119,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vvslaxman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vvslaxman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Vvslaxman&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph" /><br><br/>
+  <img src="https://streak-stats.demolab.com?user=Vvslaxman&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph" /><br><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VVSLAXMAN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=radical&hide_border=false" height="200" alt="languages graph" />
 </div>
 
@@ -138,7 +138,7 @@
 
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=Vvslaxman&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top-repo" width="400" height="400" />&nbsp;&nbsp;
-    <img src="https://leetcard.jacoblin.cool/luckyempire?theme=dark&font=Montagu%20Slab&ext=contest" alt="leetcode-stats" width="380" height="380" />
+    <img src="https://leetcard.jacoblin.cool/luckyempire?theme=radical&font=Exo%202&ext=contest" alt="leetcode-stats" width="380" height="380" />
 </div>
 
 ## 🎧 Spotify Recently Played & Sports 🏀
