@@ -115,13 +115,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="git logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="git logo"  />
+<img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
   <img width="12" />
     
 </div>
