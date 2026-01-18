@@ -137,6 +137,13 @@
 ## 🐍 Snake eating my contributions:
 <img src="https://raw.githubusercontent.com/Vvslaxman/Vvslaxman/output/snake.svg" alt="Snake animation" />
 
+## 🥠Pac man game:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/Vvslaxman/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vvslaxman&theme=radical&row=2&column=3&margin-w=15&margin-h=15" alt="vvslaxman" /></a> </p>
 
