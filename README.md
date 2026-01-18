@@ -1,4 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
+###
 <h1 align="center">Hi 👋, I'm Vangala Venkata Sai Laxman </h1>
 <h3 align="center">I am a developer, I develop solutions and bugs 🐛 </h3>
 <div style="display: flex; align-items: center;">
