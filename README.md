@@ -160,8 +160,9 @@
 </div>
 
 ## 🎧 Spotify Recently Played & Sports 🏀
+
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312pbcu5dspkahwayezfqaq5nr4i&unique={true|1|on|yes}" alt="Spotify" width="400" height="400" />&nbsp;&nbsp;
+  ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=312pbcu5dspkahwayezfqaq5nr4i&count=7)&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Tags" width="300" height="300" margin-top="10"/>
 </p>
 
